@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-height: 100vh;
+  background-color: rgba(50, 50, 50);
+}

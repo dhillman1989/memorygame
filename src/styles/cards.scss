@@ -1,0 +1,13 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  &__card {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+  }
+}
